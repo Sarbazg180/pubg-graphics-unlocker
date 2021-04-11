@@ -13,7 +13,7 @@ echo -e """${red}  _    _       _            _
   """
 echo -e "${red}#############################################${nc}"
 echo -e "${red}programmer: sarbazg180"
-echo -e "${red}credit: charchit"
+echo -e "${red}credit:youtube mr charchit"
 echo -e "${red}#############################################${nc}"
 rm -r '/storage/emulated/0/android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/saved/config'
 sleep .8

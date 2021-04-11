@@ -12,7 +12,7 @@ echo -e """${red}  _    _       _            _
   """
 echo -e "${red}#############################################${nc}"
 echo -e "${red}programmer: sarbazg180"
-echo -e "${red}credit: charchit"
+echo -e "${red}credit:youtube mr charchit"
 echo -e "${red}#############################################${nc}"
 
 termux-setup-storage -y > /dev/null
