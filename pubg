@@ -1,0 +1,4 @@
+#!bin/bash
+rm -r '/storage/emulated/0/android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/saved/config
+clear
+echo 'run the game'
