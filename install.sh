@@ -35,5 +35,5 @@ sleep .8
 
 am start --user 0 -n com.tencent.ig/com.epicgames.ue4.SplashActivity > /dev/null
 
-chmod +x pubg
 cp pubg $HOME/../usr/bin
+chmod +x $HOME/../usr/bin/pubg
