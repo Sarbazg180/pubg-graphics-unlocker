@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 clear
 red='\u001b[31;1m'
 nc='\033[0m'
