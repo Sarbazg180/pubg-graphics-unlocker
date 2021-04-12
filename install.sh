@@ -15,7 +15,7 @@ echo -e "${red}programmer: sarbazg180"
 echo -e "${red}credit:youtube mr charchit"
 echo -e "${red}#############################################${nc}"
 
-termux-setup-storage -y > /dev/null
+termux-setup-storage
 cp 'config/game_patch_1.3.0.14924.pak' '/storage/emulated/0/android/data/com.tencent.ig/files/UE4Game/ShadowTrackerExtra/ShadowTrackerExtra/saved/Paks'
 
 sleep .8
